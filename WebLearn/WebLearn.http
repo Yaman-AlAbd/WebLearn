@@ -1,0 +1,6 @@
+@WebLearn_HostAddress = http://localhost:5110
+
+GET {{WebLearn_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

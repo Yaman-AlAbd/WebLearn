@@ -1,0 +1,7 @@
+﻿services:
+  weblearn:
+    image: weblearn
+    build:
+      context: .
+      dockerfile: WebLearn/Dockerfile
+
